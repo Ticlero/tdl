@@ -1,0 +1,6 @@
+.add-list-box {
+  width: 50rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
